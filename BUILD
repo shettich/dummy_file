@@ -1,5 +1,5 @@
 filegroup(
   name="dummy",
-  srcs=["bar", "baz"],
+  srcs=["foo", "baz"],
   visibility = ["//visibility:public"],
 )
